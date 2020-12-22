@@ -1,0 +1,46 @@
+
+
+	************************************************ => USER MANUAL <= **************************************************************
+	*						-------------------								*
+	*																*
+	*	You can run this application in two modes 1. The Server Mode 2. The Client Mode						*
+	*																*
+	*	What Functionality does Server Mode has?										*
+	*	=> Start the server for having group conversation.									*
+	*	=> Have personal conversation. (i.e only you and your friend)								*
+	*	=> Recieve Data from Other connected user as client-mode.								*
+	*																*
+	*	What Functionality does Client Mode has?										*
+	*	=> Start group/personal conversation by connecting to perticular running server using port and ip address of server.	*
+	*	=> Send Data to user who is in server-mode.										*
+	*																*
+	*	How does the applications work?												*
+	*																*
+	*	=> For Server-Mode,													*
+	*																*
+	*	=> To have a group chat, start the serer in one cmd using same port number and connect to the server which		*
+	*	you have started by using your localhost or 127.0.0.1 as ip address and with same port number.				*
+	*	=> For personal chat simply start the server with some port number and wait for user to connect to your port.		*
+	*																*
+	*	=> For Client-Mode,													*
+	*																*
+	*	=> First of all you need to know the ip address and port number of server to which you want to connect.			*
+	*	=> Once you know the requirements, simply enter the details and connect.						*
+	*	=> One thing you need to keep in mind, i.e., you need to match with the property of port number. If server is running	*
+	*	in group chat mode you also need to choose group chat mode only, else there wont be any connections made.		*
+	*																*	
+	*	=> For Data Transfer,													*
+	*																*
+	*	=> To send data you need to user Server-Mode and choose respective option after starting server.			*
+	*	=> To Receive data you need to use Client-Mode and connect to respective server from where you want to get data.	*
+	*																*
+	*	=> For New User (Un-Registered) <=											*
+	*																*
+	*		1. Firstly select "Register" option(Ignore if already registered). And enter prompted.				*
+	*		2. Select "Login" for logging in to the Application using Registered User ID and Password.			*
+	*		3. If your want to use Server-Mode Application then select select option 1 else  for client option 2 option.	*
+	*		4. Now select the options as per your requirements.								*
+	*		5. Once you have done using this application select "Log Out" option to exit safely from application.		*
+	*																*
+	*																*		
+	********************************************************************************************************************************

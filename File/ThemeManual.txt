@@ -1,0 +1,20 @@
+
+ 	 *************************************  THEME SETTING  *****************************************
+	{												}
+	{	Enter Code in the format XY, where							}
+	{	the X corresponds to the background and Y to the foreground (font color).  Each digit	}
+	{	can be any of the following values:							}
+	{												}
+	{		0 = Black	8 = Gray							}
+	{		1 = Blue	9 = Light Blue							}
+	{		2 = Green	A = Light Green							}
+	{		3 = Aqua	B = Light Aqua							}
+	{		4 = Red		C = Light Red							}
+	{		5 = Purple	D = Light Purple						}
+	{		6 = Yellow	E = Light Yellow						}
+	{		7 = White	F = Bright White						}
+	{												}
+	{	Example: "fc" produces light red (font color) on bright white (background color)	}
+	{												}
+ 	 ***********************************************************************************************
+

@@ -1,0 +1,22 @@
+
+
+>->->>->->>->->>->->>->->>->->>->->>->->>->->>->->>  INSTRUCTIONS FOR REGISTRACTIONS  <<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<
+																		
+	********** USER ID SETUP RULES **********												
+																		
+	1. User Id should contain Lower case and Upper case Alpabets.										
+	2. Special characters (only Underscores : '_') and Digits (0-9) are optional.								
+																		
+	********** PASSWORD SETUP RULES **********												
+																		
+	1. Password length should be greater than or equal to 8 and less than or equal 20.							
+	2. Password should contain atleast one upper case, one lower case, one digit and							
+	a special characters (only '@', '$', '#','&').											
+																		
+	NOTE :																	
+		1. IP Address Should be only 'IP4' version.
+		2. User ID is "immutable" i.e., once registered it cannot be changed.
+		You use delete account section to remove perticular user ID									
+																		
+>->->>->->>->->>->->>->->>->->>->->>->->>->->>->->>->->>->->>->->>->-><-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<<-<-<-<<-<
+
