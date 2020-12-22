@@ -1,2 +1,2 @@
-# Mychat-where-people-connect
+# MyChat-where-people-connect
 A Mini Project in C
